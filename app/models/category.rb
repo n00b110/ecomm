@@ -1,3 +1,3 @@
-class Admin::Category < ApplicationRecord
+class Category < ApplicationRecord
 
 end
